@@ -23,7 +23,6 @@ b.	If false, print 'num' followed by " is Non-Zero"
 Program to implement a class & objects using Java
 Developed by: JEEVAGOWTHAM S
 RegisterNumber: 212222230053
-
 */
 ```
 
